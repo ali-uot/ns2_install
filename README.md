@@ -152,9 +152,16 @@ export LD_LIBRARY_PATH=/home/ali/Documents/ns-allinone-2.35/otcl-1.14:/home/ali/
 	$ ns
 		ns-version
 		exit
+  
 	$ nam
+ 
 	$ cd ns-2.35/
+ 
 	$ cd tcl/
+ 
 	$ cd ex/
+ 
 	$ ns wireless-mitf.tcl
+ 
 	$ nam wireless_mitf.nam
+ 
