@@ -1,6 +1,7 @@
 # ns2_install
 Preparing
 	first check Ubuntu version (it should 22.04)
+ 
 	$ lsb_release -a
 	
 1- Update & install important libraries
