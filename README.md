@@ -5,9 +5,13 @@ Preparing
 	$ lsb_release -a
 	
 1- Update & install important libraries
+
 	$ sudo apt update
+ 
 	$ sudo apt upgrade
+ 
 	$ sudo apt install build-essential autoconf automake libxmu-dev gawk
+
 
 	$ sudo apt update
 	$ sudo apt upgrade
